@@ -47,5 +47,5 @@ A[Hard edge] -->B(Round edge)
     C -->|Two| E[Result two]
 ```
 
-![](images/1.jpg?raw=true "deneme1")
+![Alt text](images/1.jpg?raw=true "deneme1")
 
