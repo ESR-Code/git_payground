@@ -5,7 +5,8 @@ var obj ={
         ],
         test3:{
             obj1:23,
-            obj2:24
+            obj2:24,
+            obj3:89
         }
     }
 }
