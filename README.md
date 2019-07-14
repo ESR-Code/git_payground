@@ -39,13 +39,7 @@ dsfsdfdsf dvsdv
      kjabnkdjnaksjdn
 
 -----------------------
-```mermaid
-graph LR
-A[Hard edge] -->B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
-```
 
-![Alt text](images/1.jpg?raw=true "deneme3")
+
+![Alt text](images/1.JPG?raw=true "deneme3")
 
